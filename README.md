@@ -7,7 +7,7 @@
 # TorDDos
 TorDDos is a Python tool to automatize DDos attacks to a website from the Tor network.
   
-<p align="center"><img src="https://github.com/T3AmSyNc/torDDos/blob/master/img/torddos.png" /></p>
+<p align="center"><img src="https://github.com/T3AmSyNc/torDDoS/blob/main/img/torddos.png" /></p>
 
 
 ## Usage
